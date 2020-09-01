@@ -1,0 +1,126 @@
+class,group,nice_label,abbrev,phylum,grp_type,y_rank
+fish_clupeid_like_shape,fish,fish,fish,chordata,living,36
+fish_like,fish,fish,fish,chordata,living,36
+fish_medium_deep_body,fish,fish,fish,chordata,living,36
+fish_myctophids,fish,fish,fish,chordata,living,36
+fish_sm_dorsal_spinesrays,fish,fish,fish,chordata,living,36
+fish_sm_pointedsnout,fish,fish,fish,chordata,living,36
+fish_thin_body,fish,fish,fish,chordata,living,36
+appendicularian_fritillaridae,appendicularian,appendicularian,app,chordata,living,35
+appendicularian_s_shape,appendicularian,appendicularian,app,chordata,living,35
+appendicularian_slight_curve,appendicularian,appendicularian,app,chordata,living,35
+appendicularian_straight,appendicularian,appendicularian,app,chordata,living,35
+tunicate_partial,pelagic_tunicate,pelagic tunicate,ptun,chordata,living,34
+tunicate_salp,salp,salp,salp,chordata,living,33
+tunicate_salp_chains,salp,salp,salp,chordata,living,33
+tunicate_doliolid,doliolid,doliolid,doli,chordata,living,32
+tornaria_acorn_worm_larvae,tornaria,tornaria,torn,hemichordata,living,31
+echinoderm_larva_heart_urchin,echinoderm_urchin,urchin larvae,urch,echinodermata,living,30
+echinoderm_larva_heart_urchin_irreg,echinoderm_urchin,urchin larvae,urch,echinodermata,living,30
+echinoderm_larva_pluteus,echinoderm_urchin,urchin larvae,urch,echinodermata,living,30
+echinoderm_larva_pluteus_early,echinoderm_urchin,urchin larvae,urch,echinodermata,living,30
+echinoderm_juvenile_brittlestar,echinoderm_seastar,sea star larvae,star,echinodermata,living,29
+echinoderm_larva_seastar_bipinnaria,echinoderm_seastar,sea star larvae,star,echinodermata,living,29
+echinoderm_larva_seastar_brachiolaria,echinoderm_seastar,sea star larvae,star,echinodermata,living,29
+echinoderm_auricularia_larva,echinoderm_other,echinoderm larvae,echl,echinodermata,living,28
+echinoderm_larva_typeA,echinoderm_other,echinoderm larvae,echl,echinodermata,living,28
+chaetoganth_curve,chaetognath,chaetognath,chaet,chaetognatha,living,27
+chaetognath_s,chaetognath,chaetognath,chaet,chaetognatha,living,27
+chaetognath_straight,chaetognath,chaetognath,chaet,chaetognatha,living,27
+chaetognath_tail,chaetognath,chaetognath,chaet,chaetognatha,living,27
+chateognath_head,chaetognath,chaetognath,chaet,chaetognatha,living,27
+heteropod,heteropod,heteropod,heter,mollusc,living,26
+pteropod_butterfly,pteropod,pteropod,ptero,mollusc,living,25
+pteropod_tail,pteropod,pteropod,ptero,mollusc,living,25
+pteropod_theco_dev_seq,pteropod,pteropod,ptero,mollusc,living,25
+pteropod_triangle,pteropod,pteropod,ptero,mollusc,living,25
+polychaete,polychaete,polychaete,polyc,annelid,living,24
+polychaete_nechtochaete_magelona,polychaete,polychaete,polyc,annelid,living,24
+polychaete_trochophore_larvae,polychaete,polychaete,polyc,annelid,living,24
+crustacean_amphipod_fat,crustacean_other,crustacean other,crust,arthropoda,living,23
+crustacean_amphipod_thin,crustacean_other,crustacean other,crust,arthropoda,living,23
+crustacean_other,crustacean_other,crustacean other,crust,arthropoda,living,23
+crustacean_stomatopod,crustacean_other,crustacean other,crust,arthropoda,living,23
+crustacean_zoea,crustacean_other,crustacean other,crust,arthropoda,living,23
+shrimp_euphausiids,shrimp_euphausiids,euphausiid,euphau,arthropoda,living,22
+shrimp_caridean,shrimp_decapods,decapod shrimp,shrim-dec,arthropoda,living,21
+shrimp_lucifer,shrimp_decapods,decapod shrimp,shrim-dec,arthropoda,living,21
+shrimp_sergestidae,shrimp_decapods,decapod shrimp,shrim-dec,arthropoda,living,21
+shrimp_escape,shrimp_other,shrimp other,shrim-oth,arthropoda,living,20
+shrimp_sm_other,shrimp_other,shrimp other,shrim-oth,arthropoda,living,20
+copepod_cyclopoid_copilia,copepod_copilia,Copilia spp.,Copilia,arthropoda,living,19
+copepod_cyclopoid_oithona_eggs,copepod_oithona_eggs,Oithona spp. (eggs),Oith_egg,arthropoda,living,18
+copepod_cyclopoid_oithona,copepod_oithona,Oithona spp.,Oith,arthropoda,living,17
+copepod_calanoid_calocalanus,copepod_calanoid,calanoid copepod,cop-cal,arthropoda,living,16
+copepod_calanoid_eggs,copepod_calanoid,calanoid copepod,cop-cal,arthropoda,living,16
+copepod_calanoid_eucalanus,copepod_calanoid,calanoid copepod,cop-cal,arthropoda,living,16
+copepod_calanoid_flatheads,copepod_calanoid,calanoid copepod,cop-cal,arthropoda,living,16
+copepod_calanoid_frillyantennae,copepod_calanoid,calanoid copepod,cop-cal,arthropoda,living,16
+copepod_calanoid_longantennae,copepod_calanoid,calanoid copepod,cop-cal,arthropoda,living,16
+copepod_calanoid_small_oval,copepod_calanoid,calanoid copepod,cop-cal,arthropoda,living,16
+copepod_calanoid_typeA,copepod_calanoid,calanoid copepod,cop-cal,arthropoda,living,16
+copepod_calanoid_typeB,copepod_calanoid,calanoid copepod,cop-cal,arthropoda,living,16
+copepod_calanoid_typeC,copepod_calanoid,calanoid copepod,cop-cal,arthropoda,living,16
+copepod_sideview,copepod_other,copepod,cop-oth,arthropoda,living,15
+ctenophore_cestid,ctenophore_cestid,cestid ctenophore,cteno,ctenophora,living,14
+ctenophore_lobate,ctenophore_lobate,lobate ctenophore,cteno,ctenophora,living,13
+ctenophore_cydippid_no_tentacles,ctenophore_cydippid,cydippid ctenophore,cteno,ctenophora,living,12
+ctenophore_cydippid_tentacles,ctenophore_cydippid,cydippid ctenophore,cteno,ctenophora,living,12
+siphonophore_calycophoran_abylidae,siphonophore_calycophoran,calycophoran siphonophore,sipho-c,cnidaria,living,11
+siphonophore_calycophoran_rocketship,siphonophore_calycophoran,calycophoran siphonophore,sipho-c,cnidaria,living,11
+siphonophore_calycophoran_sphaeronectes,siphonophore_calycophoran,calycophoran siphonophore,sipho-c,cnidaria,living,11
+siphonophore_calycophoran_young,siphonophore_calycophoran,calycophoran siphonophore,sipho-c,cnidaria,living,11
+siphonophore_physonect,siphonophore_physonect,physonect siphonophore,sipho-p,cnidaria,living,10
+siphonophore_physonect_young,siphonophore_physonect,physonect siphonophore,sipho-p,cnidaria,living,10
+siphonophore_partial,siphonophore_other,siphonophore,sipho,cnidaria,living,9
+hydromedusae_narco_cunina,hydromedusae_narco,narcomedusae,narc,cnidaria,living,8
+hydromedusae_narco_dark,hydromedusae_narco,narcomedusae,narc,cnidaria,living,8
+hydromedusae_narco_young,hydromedusae_narco,narcomedusae,narc,cnidaria,living,8
+hydromedusae_narcomedusae,hydromedusae_narco,narcomedusae,narc,cnidaria,living,8
+hydromedusae_solmaris,hydromedusae_narco,narcomedusae,narc,cnidaria,living,8
+hydromedusae_solmundella,hydromedusae_narco,narcomedusae,narc,cnidaria,living,8
+hydromedusae_aglaura,hydromedusae,hydromedusae,hydro,cnidaria,living,7
+hydromedusae_bell_and_tentacles,hydromedusae,hydromedusae,hydro,cnidaria,living,7
+hydromedusae_h15,hydromedusae,hydromedusae,hydro,cnidaria,living,7
+hydromedusae_haliscera,hydromedusae,hydromedusae,hydro,cnidaria,living,7
+hydromedusae_liriope,hydromedusae,hydromedusae,hydro,cnidaria,living,7
+hydromedusae_other,hydromedusae,hydromedusae,hydro,cnidaria,living,7
+hydromedusae_partial_dark,hydromedusae,hydromedusae,hydro,cnidaria,living,7
+hydromedusae_sideview_big,hydromedusae,hydromedusae,hydro,cnidaria,living,7
+hydromedusae_typeA,hydromedusae,hydromedusae,hydro,cnidaria,living,7
+hydromedusae_typeB,hydromedusae,hydromedusae,hydro,cnidaria,living,7
+hydromedusae_typeC,hydromedusae,hydromedusae,hydro,cnidaria,living,7
+hydromedusae_typeD,hydromedusae,hydromedusae,hydro,cnidaria,living,7
+hydromedusae_typeD_bell_and_tentacles,hydromedusae,hydromedusae,hydro,cnidaria,living,7
+hydromedusae_typeE,hydromedusae,hydromedusae,hydro,cnidaria,living,7
+hydromedusae_typeF,hydromedusae,hydromedusae,hydro,cnidaria,living,7
+jellyfish_ephyra,jellyfish_other,jellyfish,jelly,cnidaria,living,6
+jellyfish_tentacles,jellyfish_other,jellyfish,jelly,cnidaria,living,6
+diatom_chain_string,diatom,diatom,diato,ochrophyta,living,5
+diatom_chain_tube,diatom,diatom,diato,ochrophyta,living,5
+acantharia_protist,acantharia_protist,acantharian protist,acant,protozoa,living,4
+acantharia_protist_big_center,acantharia_protist,acantharian protist,acant,protozoa,living,4
+acantharia_protist_halo,acantharia_protist,acantharian protist,acant,protozoa,living,4
+radiolarian_chain,radiolarian,radiolarian,radio,protozoa,living,3
+radiolarian_colony,radiolarian,radiolarian,radio,protozoa,living,3
+protist_dark_center,protist,protist,proti,protozoa,living,2
+protist_dark_circle_2rays,protist,protist,proti,protozoa,living,2
+protist_fuzzy_olive,protist,protist,proti,protozoa,living,2
+protist_noctiluca,protist,protist,proti,protozoa,living,2
+protist_noctiluca_long_flagella,protist,protist,proti,protozoa,living,2
+protist_other,protist,protist,proti,protozoa,living,2
+protist_star,protist,protist,proti,protozoa,living,2
+trichodesmium_bowtie,trichodesmium,trichodesmium,trich,cyanobacteria,living,1
+trichodesmium_multiple,trichodesmium,trichodesmium,trich,cyanobacteria,living,1
+trichodesmium_partial,trichodesmium,trichodesmium,trich,cyanobacteria,living,1
+trichodesmium_puff,trichodesmium,trichodesmium,trich,cyanobacteria,living,1
+trichodesmium_tuft,trichodesmium,trichodesmium,trich,cyanobacteria,living,1
+fecal_pellet,fecal pellet,fecal pellet,fecal,detritus,not_living,0
+detritus,detritus,detritus,detri,detritus,not_living,0
+artifacts,artifact,artifacts,artif,artifacts,not_living,-1
+artifacts_edge,artifact,artifacts,artif,artifacts,not_living,-1
+chordate_type1,unknown,unknown,chord,unknown,not_living,-2
+unknown_blobs_and_smudges,unknown,unknown,unkno,unknown,not_living,-2
+unknown_dark_circles,unknown,unknown,unkno,unknown,not_living,-2
+unknown_sticks,unknown,unknown,unkno,unknown,not_living,-2
+unknown_unclassified,unknown,unknown,unkno,unknown,not_living,-2
